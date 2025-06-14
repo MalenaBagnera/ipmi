@@ -1,5 +1,6 @@
-// VARIABLES
+
 // https://youtu.be/tzewqkTxsfU
+//VARIABLES
 PImage obra ;
 int px, py ;
 color color1, color2, color3, color4 ;
