@@ -88,7 +88,7 @@ void draw() {
       float y = 66 + j * 133.5;
       float tActual = 133;
 
-      // Elegimos el tamaño correspondiente
+      // Asigno tamaño correspondiente 
       if (contador == 0) tActual = t1;
       if (contador == 1) tActual = t2;
       if (contador == 2) tActual = t3;
